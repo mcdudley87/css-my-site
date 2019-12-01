@@ -1,0 +1,20 @@
+body {
+  background-color: #32407B;
+  margin: 0;
+}
+
+.top {
+  background-color: #46b5d1;
+}
+
+.mid {
+  height: 200px;
+  width: 200px;
+  background-color: #515585;
+}
+
+.btm {
+  height: 200px;
+  width: 200px;
+  background-color: #151965;
+}
